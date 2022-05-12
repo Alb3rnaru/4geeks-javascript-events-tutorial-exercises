@@ -4,3 +4,7 @@ window.onload = function myLoadFunction() {
 };
 
 //the listener function here
+
+window.wooHoo = function wooHoo(){
+	alert("woohoo!");
+}
